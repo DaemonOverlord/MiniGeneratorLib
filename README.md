@@ -26,6 +26,8 @@ THE SOFTWARE.
 
 Features
 ========
-  -Custom generator
-  -Fail-safe mini protection
-  -80% Completion rate
+Custom generator
+
+Fail-safe mini protection
+
+80% Completion rate
