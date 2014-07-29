@@ -1,0 +1,5 @@
+c:\users\austin green\documents\visual studio 2012\Projects\MiniGeneratorLib\MiniGeneratorLib\bin\Debug\MiniGeneratorLib.dll
+c:\users\austin green\documents\visual studio 2012\Projects\MiniGeneratorLib\MiniGeneratorLib\bin\Debug\MiniGeneratorLib.pdb
+c:\users\austin green\documents\visual studio 2012\Projects\MiniGeneratorLib\MiniGeneratorLib\obj\Debug\MiniGeneratorLib.csprojResolveAssemblyReference.cache
+c:\users\austin green\documents\visual studio 2012\Projects\MiniGeneratorLib\MiniGeneratorLib\obj\Debug\MiniGeneratorLib.dll
+c:\users\austin green\documents\visual studio 2012\Projects\MiniGeneratorLib\MiniGeneratorLib\obj\Debug\MiniGeneratorLib.pdb
