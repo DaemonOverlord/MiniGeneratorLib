@@ -4,6 +4,8 @@ MiniGeneratorLib
 Verison 1.0
 Made by Ugotpwned(ThyChief)
 
+The MIT License (MIT)
+
 Copyright (c) 2014 Ugotpwned
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
